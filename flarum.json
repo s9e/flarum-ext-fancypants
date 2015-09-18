@@ -1,0 +1,23 @@
+{
+	"name": "s9e-fancypants",
+	"title": "s9e/fancypants",
+	"description": "Provides enhanced typography.",
+	"version": "0.1.0",
+	"author": {
+		"name": "JoshyPHP"
+	},
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0",
+		"flarum": ">0.1.0"
+	},
+	"support": {
+		"source": "https://github.com/s9e/flarum-ext-fancypants",
+		"issues": "https://github.com/s9e/flarum-ext-fancypants/issues"
+	},
+	"icon": {
+		"name": "quote-left",
+		"backgroundColor": "#607d8b",
+		"color": "#fff"
+	}
+}
