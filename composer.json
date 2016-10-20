@@ -3,7 +3,7 @@
 	"description": "Provides enhanced typography.",
 	"type": "flarum-extension",
 	"keywords": ["flarum","typography"],
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"author": {
 		"name": "JoshyPHP"
 	},
