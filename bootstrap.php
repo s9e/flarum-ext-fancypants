@@ -16,7 +16,7 @@ function subscribe(Dispatcher $events)
 		ConfigureFormatter::class,
 		function (ConfigureFormatter $event)
 		{
-			$event->configurator->Fancypants;
+			$event->configurator->FancyPants;
 		}
 	);
 };
